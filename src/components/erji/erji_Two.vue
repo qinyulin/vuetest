@@ -32,7 +32,6 @@ export default{
 			//如果着上面代码内联里面就不需要写this.
 			 
 			var url = "http://localhost/shuju/data.php";
-			url = "http://localhost/shuju/data.json"
 			//1、jquery方法获取数据
 			// $.post(url,{},function(data){
 			// 	console.log(data)
